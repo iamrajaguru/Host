@@ -49,9 +49,9 @@ nav ul li a {
 }
 
 /* 
-Section Style 
+Body Section Style 
 */
-
+/*Section 1*/
 .top-hero-class{
 background-color: #3498db;
 color:white
@@ -63,6 +63,33 @@ color:white
 .qualities-img{
     width:200px;
 }
+/*section 2*/
 
+.requirement-section{
+background-color: #004d80;
+color:white;
+}
+/*section 4*/
+.newsletter{
+background-color: #004d80;
+color:white;
+}
+
+.newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+    }
+.newsletter .btn {
+    background-color: #243c4f;
+    min-height: 50px;
+    border-radius:  0 20px 20px 0;
+    color:white;
+    }
+
+/* section 7*/
+.client-section{
+    background-color: #f0f0f0;
+}
 
 /*End*/
