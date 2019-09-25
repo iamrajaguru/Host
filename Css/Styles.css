@@ -97,5 +97,9 @@ color:white;
 .breadcrumbs-section{
     background-color: #e9ecef;
 }
+/*contact us*/
+.address p{
+    font-weight: 600;
+}
 
 /*End*/
